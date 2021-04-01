@@ -1,0 +1,7 @@
+{
+    "C_Cpp.default.configurationProvider": "go2sh.cmake-integration",
+    "files.associations": {
+        "animstates.h": "c",
+        "raylib.h": "c"
+    }
+}

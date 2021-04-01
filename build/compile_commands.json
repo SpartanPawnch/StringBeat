@@ -1,0 +1,132 @@
+[
+{
+  "directory": "C:/Users/marti/Documents/StringBeat/build",
+  "command": "C:\\MinGW\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP @CMakeFiles/StringBeat.dir/includes_C.rsp -g   -std=gnu99 -o CMakeFiles\\StringBeat.dir\\src\\main.c.obj   -c C:\\Users\\marti\\Documents\\StringBeat\\src\\main.c",
+  "file": "C:/Users/marti/Documents/StringBeat/src/main.c"
+},
+{
+  "directory": "C:/Users/marti/Documents/StringBeat/build",
+  "command": "C:\\MinGW\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP @CMakeFiles/StringBeat.dir/includes_C.rsp -g   -std=gnu99 -o CMakeFiles\\StringBeat.dir\\src\\commandinterpret.c.obj   -c C:\\Users\\marti\\Documents\\StringBeat\\src\\commandinterpret.c",
+  "file": "C:/Users/marti/Documents/StringBeat/src/commandinterpret.c"
+},
+{
+  "directory": "C:/Users/marti/Documents/StringBeat/build",
+  "command": "C:\\MinGW\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP @CMakeFiles/StringBeat.dir/includes_C.rsp -g   -std=gnu99 -o CMakeFiles\\StringBeat.dir\\src\\animstates.c.obj   -c C:\\Users\\marti\\Documents\\StringBeat\\src\\animstates.c",
+  "file": "C:/Users/marti/Documents/StringBeat/src/animstates.c"
+},
+{
+  "directory": "C:/Users/marti/Documents/StringBeat/build",
+  "command": "C:\\MinGW\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP @CMakeFiles/StringBeat.dir/includes_C.rsp -g   -std=gnu99 -o CMakeFiles\\StringBeat.dir\\src\\utils.c.obj   -c C:\\Users\\marti\\Documents\\StringBeat\\src\\utils.c",
+  "file": "C:/Users/marti/Documents/StringBeat/src/utils.c"
+},
+{
+  "directory": "C:/Users/marti/Documents/StringBeat/build/libs/raylib/src",
+  "command": "C:\\MinGW\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -DRAYLIB_CMAKE=1 -D_CRT_SECURE_NO_WARNINGS @CMakeFiles/raylib_static.dir/includes_C.rsp -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -g   -std=gnu99 -o CMakeFiles\\raylib_static.dir\\core.c.obj   -c C:\\Users\\marti\\Documents\\StringBeat\\libs\\raylib\\src\\core.c",
+  "file": "C:/Users/marti/Documents/StringBeat/libs/raylib/src/core.c"
+},
+{
+  "directory": "C:/Users/marti/Documents/StringBeat/build/libs/raylib/src",
+  "command": "C:\\MinGW\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -DRAYLIB_CMAKE=1 -D_CRT_SECURE_NO_WARNINGS @CMakeFiles/raylib_static.dir/includes_C.rsp -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -g   -std=gnu99 -o CMakeFiles\\raylib_static.dir\\models.c.obj   -c C:\\Users\\marti\\Documents\\StringBeat\\libs\\raylib\\src\\models.c",
+  "file": "C:/Users/marti/Documents/StringBeat/libs/raylib/src/models.c"
+},
+{
+  "directory": "C:/Users/marti/Documents/StringBeat/build/libs/raylib/src",
+  "command": "C:\\MinGW\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -DRAYLIB_CMAKE=1 -D_CRT_SECURE_NO_WARNINGS @CMakeFiles/raylib_static.dir/includes_C.rsp -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -g   -std=gnu99 -o CMakeFiles\\raylib_static.dir\\raudio.c.obj   -c C:\\Users\\marti\\Documents\\StringBeat\\libs\\raylib\\src\\raudio.c",
+  "file": "C:/Users/marti/Documents/StringBeat/libs/raylib/src/raudio.c"
+},
+{
+  "directory": "C:/Users/marti/Documents/StringBeat/build/libs/raylib/src",
+  "command": "C:\\MinGW\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -DRAYLIB_CMAKE=1 -D_CRT_SECURE_NO_WARNINGS @CMakeFiles/raylib_static.dir/includes_C.rsp -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -g   -std=gnu99 -o CMakeFiles\\raylib_static.dir\\shapes.c.obj   -c C:\\Users\\marti\\Documents\\StringBeat\\libs\\raylib\\src\\shapes.c",
+  "file": "C:/Users/marti/Documents/StringBeat/libs/raylib/src/shapes.c"
+},
+{
+  "directory": "C:/Users/marti/Documents/StringBeat/build/libs/raylib/src",
+  "command": "C:\\MinGW\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -DRAYLIB_CMAKE=1 -D_CRT_SECURE_NO_WARNINGS @CMakeFiles/raylib_static.dir/includes_C.rsp -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -g   -std=gnu99 -o CMakeFiles\\raylib_static.dir\\text.c.obj   -c C:\\Users\\marti\\Documents\\StringBeat\\libs\\raylib\\src\\text.c",
+  "file": "C:/Users/marti/Documents/StringBeat/libs/raylib/src/text.c"
+},
+{
+  "directory": "C:/Users/marti/Documents/StringBeat/build/libs/raylib/src",
+  "command": "C:\\MinGW\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -DRAYLIB_CMAKE=1 -D_CRT_SECURE_NO_WARNINGS @CMakeFiles/raylib_static.dir/includes_C.rsp -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -g   -std=gnu99 -o CMakeFiles\\raylib_static.dir\\textures.c.obj   -c C:\\Users\\marti\\Documents\\StringBeat\\libs\\raylib\\src\\textures.c",
+  "file": "C:/Users/marti/Documents/StringBeat/libs/raylib/src/textures.c"
+},
+{
+  "directory": "C:/Users/marti/Documents/StringBeat/build/libs/raylib/src",
+  "command": "C:\\MinGW\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -DRAYLIB_CMAKE=1 -D_CRT_SECURE_NO_WARNINGS @CMakeFiles/raylib_static.dir/includes_C.rsp -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -g   -std=gnu99 -o CMakeFiles\\raylib_static.dir\\utils.c.obj   -c C:\\Users\\marti\\Documents\\StringBeat\\libs\\raylib\\src\\utils.c",
+  "file": "C:/Users/marti/Documents/StringBeat/libs/raylib/src/utils.c"
+},
+{
+  "directory": "C:/Users/marti/Documents/StringBeat/build/libs/raylib/src/external/glfw/src",
+  "command": "C:\\MinGW\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H @CMakeFiles/glfw_objlib.dir/includes_C.rsp -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -g   -Wall -std=gnu99 -Wdeclaration-after-statement -o CMakeFiles\\glfw_objlib.dir\\context.c.obj   -c C:\\Users\\marti\\Documents\\StringBeat\\libs\\raylib\\src\\external\\glfw\\src\\context.c",
+  "file": "C:/Users/marti/Documents/StringBeat/libs/raylib/src/external/glfw/src/context.c"
+},
+{
+  "directory": "C:/Users/marti/Documents/StringBeat/build/libs/raylib/src/external/glfw/src",
+  "command": "C:\\MinGW\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H @CMakeFiles/glfw_objlib.dir/includes_C.rsp -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -g   -Wall -std=gnu99 -Wdeclaration-after-statement -o CMakeFiles\\glfw_objlib.dir\\init.c.obj   -c C:\\Users\\marti\\Documents\\StringBeat\\libs\\raylib\\src\\external\\glfw\\src\\init.c",
+  "file": "C:/Users/marti/Documents/StringBeat/libs/raylib/src/external/glfw/src/init.c"
+},
+{
+  "directory": "C:/Users/marti/Documents/StringBeat/build/libs/raylib/src/external/glfw/src",
+  "command": "C:\\MinGW\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H @CMakeFiles/glfw_objlib.dir/includes_C.rsp -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -g   -Wall -std=gnu99 -Wdeclaration-after-statement -o CMakeFiles\\glfw_objlib.dir\\input.c.obj   -c C:\\Users\\marti\\Documents\\StringBeat\\libs\\raylib\\src\\external\\glfw\\src\\input.c",
+  "file": "C:/Users/marti/Documents/StringBeat/libs/raylib/src/external/glfw/src/input.c"
+},
+{
+  "directory": "C:/Users/marti/Documents/StringBeat/build/libs/raylib/src/external/glfw/src",
+  "command": "C:\\MinGW\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H @CMakeFiles/glfw_objlib.dir/includes_C.rsp -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -g   -Wall -std=gnu99 -Wdeclaration-after-statement -o CMakeFiles\\glfw_objlib.dir\\monitor.c.obj   -c C:\\Users\\marti\\Documents\\StringBeat\\libs\\raylib\\src\\external\\glfw\\src\\monitor.c",
+  "file": "C:/Users/marti/Documents/StringBeat/libs/raylib/src/external/glfw/src/monitor.c"
+},
+{
+  "directory": "C:/Users/marti/Documents/StringBeat/build/libs/raylib/src/external/glfw/src",
+  "command": "C:\\MinGW\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H @CMakeFiles/glfw_objlib.dir/includes_C.rsp -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -g   -Wall -std=gnu99 -Wdeclaration-after-statement -o CMakeFiles\\glfw_objlib.dir\\vulkan.c.obj   -c C:\\Users\\marti\\Documents\\StringBeat\\libs\\raylib\\src\\external\\glfw\\src\\vulkan.c",
+  "file": "C:/Users/marti/Documents/StringBeat/libs/raylib/src/external/glfw/src/vulkan.c"
+},
+{
+  "directory": "C:/Users/marti/Documents/StringBeat/build/libs/raylib/src/external/glfw/src",
+  "command": "C:\\MinGW\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H @CMakeFiles/glfw_objlib.dir/includes_C.rsp -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -g   -Wall -std=gnu99 -Wdeclaration-after-statement -o CMakeFiles\\glfw_objlib.dir\\window.c.obj   -c C:\\Users\\marti\\Documents\\StringBeat\\libs\\raylib\\src\\external\\glfw\\src\\window.c",
+  "file": "C:/Users/marti/Documents/StringBeat/libs/raylib/src/external/glfw/src/window.c"
+},
+{
+  "directory": "C:/Users/marti/Documents/StringBeat/build/libs/raylib/src/external/glfw/src",
+  "command": "C:\\MinGW\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H @CMakeFiles/glfw_objlib.dir/includes_C.rsp -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -g   -Wall -std=gnu99 -Wdeclaration-after-statement -o CMakeFiles\\glfw_objlib.dir\\win32_init.c.obj   -c C:\\Users\\marti\\Documents\\StringBeat\\libs\\raylib\\src\\external\\glfw\\src\\win32_init.c",
+  "file": "C:/Users/marti/Documents/StringBeat/libs/raylib/src/external/glfw/src/win32_init.c"
+},
+{
+  "directory": "C:/Users/marti/Documents/StringBeat/build/libs/raylib/src/external/glfw/src",
+  "command": "C:\\MinGW\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H @CMakeFiles/glfw_objlib.dir/includes_C.rsp -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -g   -Wall -std=gnu99 -Wdeclaration-after-statement -o CMakeFiles\\glfw_objlib.dir\\win32_joystick.c.obj   -c C:\\Users\\marti\\Documents\\StringBeat\\libs\\raylib\\src\\external\\glfw\\src\\win32_joystick.c",
+  "file": "C:/Users/marti/Documents/StringBeat/libs/raylib/src/external/glfw/src/win32_joystick.c"
+},
+{
+  "directory": "C:/Users/marti/Documents/StringBeat/build/libs/raylib/src/external/glfw/src",
+  "command": "C:\\MinGW\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H @CMakeFiles/glfw_objlib.dir/includes_C.rsp -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -g   -Wall -std=gnu99 -Wdeclaration-after-statement -o CMakeFiles\\glfw_objlib.dir\\win32_monitor.c.obj   -c C:\\Users\\marti\\Documents\\StringBeat\\libs\\raylib\\src\\external\\glfw\\src\\win32_monitor.c",
+  "file": "C:/Users/marti/Documents/StringBeat/libs/raylib/src/external/glfw/src/win32_monitor.c"
+},
+{
+  "directory": "C:/Users/marti/Documents/StringBeat/build/libs/raylib/src/external/glfw/src",
+  "command": "C:\\MinGW\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H @CMakeFiles/glfw_objlib.dir/includes_C.rsp -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -g   -Wall -std=gnu99 -Wdeclaration-after-statement -o CMakeFiles\\glfw_objlib.dir\\win32_time.c.obj   -c C:\\Users\\marti\\Documents\\StringBeat\\libs\\raylib\\src\\external\\glfw\\src\\win32_time.c",
+  "file": "C:/Users/marti/Documents/StringBeat/libs/raylib/src/external/glfw/src/win32_time.c"
+},
+{
+  "directory": "C:/Users/marti/Documents/StringBeat/build/libs/raylib/src/external/glfw/src",
+  "command": "C:\\MinGW\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H @CMakeFiles/glfw_objlib.dir/includes_C.rsp -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -g   -Wall -std=gnu99 -Wdeclaration-after-statement -o CMakeFiles\\glfw_objlib.dir\\win32_thread.c.obj   -c C:\\Users\\marti\\Documents\\StringBeat\\libs\\raylib\\src\\external\\glfw\\src\\win32_thread.c",
+  "file": "C:/Users/marti/Documents/StringBeat/libs/raylib/src/external/glfw/src/win32_thread.c"
+},
+{
+  "directory": "C:/Users/marti/Documents/StringBeat/build/libs/raylib/src/external/glfw/src",
+  "command": "C:\\MinGW\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H @CMakeFiles/glfw_objlib.dir/includes_C.rsp -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -g   -Wall -std=gnu99 -Wdeclaration-after-statement -o CMakeFiles\\glfw_objlib.dir\\win32_window.c.obj   -c C:\\Users\\marti\\Documents\\StringBeat\\libs\\raylib\\src\\external\\glfw\\src\\win32_window.c",
+  "file": "C:/Users/marti/Documents/StringBeat/libs/raylib/src/external/glfw/src/win32_window.c"
+},
+{
+  "directory": "C:/Users/marti/Documents/StringBeat/build/libs/raylib/src/external/glfw/src",
+  "command": "C:\\MinGW\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H @CMakeFiles/glfw_objlib.dir/includes_C.rsp -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -g   -Wall -std=gnu99 -Wdeclaration-after-statement -o CMakeFiles\\glfw_objlib.dir\\wgl_context.c.obj   -c C:\\Users\\marti\\Documents\\StringBeat\\libs\\raylib\\src\\external\\glfw\\src\\wgl_context.c",
+  "file": "C:/Users/marti/Documents/StringBeat/libs/raylib/src/external/glfw/src/wgl_context.c"
+},
+{
+  "directory": "C:/Users/marti/Documents/StringBeat/build/libs/raylib/src/external/glfw/src",
+  "command": "C:\\MinGW\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H @CMakeFiles/glfw_objlib.dir/includes_C.rsp -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -g   -Wall -std=gnu99 -Wdeclaration-after-statement -o CMakeFiles\\glfw_objlib.dir\\egl_context.c.obj   -c C:\\Users\\marti\\Documents\\StringBeat\\libs\\raylib\\src\\external\\glfw\\src\\egl_context.c",
+  "file": "C:/Users/marti/Documents/StringBeat/libs/raylib/src/external/glfw/src/egl_context.c"
+},
+{
+  "directory": "C:/Users/marti/Documents/StringBeat/build/libs/raylib/src/external/glfw/src",
+  "command": "C:\\MinGW\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H @CMakeFiles/glfw_objlib.dir/includes_C.rsp -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -g   -Wall -std=gnu99 -Wdeclaration-after-statement -o CMakeFiles\\glfw_objlib.dir\\osmesa_context.c.obj   -c C:\\Users\\marti\\Documents\\StringBeat\\libs\\raylib\\src\\external\\glfw\\src\\osmesa_context.c",
+  "file": "C:/Users/marti/Documents/StringBeat/libs/raylib/src/external/glfw/src/osmesa_context.c"
+}
+]
